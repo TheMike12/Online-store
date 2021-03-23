@@ -12,7 +12,7 @@ const Header = () => {
                 <ul>
                     <li>Home</li>
                     <li>Food<i class="fas fa-caret-down"></i>
-                        <ul class="list">
+                        <ul className="list">
                             <li>Bakery</li>
                             <li>Candy</li>
                             <li>Condiments</li>
@@ -23,7 +23,7 @@ const Header = () => {
                         </ul>
                     </li>
                     <li>Meals<i class="fas fa-caret-down"></i>
-                        <ul class="list">
+                        <ul className="list">
                             <li>Breakfast</li>
                             <li>Lunch</li>
                             <li>Dinner</li>
