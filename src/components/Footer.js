@@ -8,32 +8,32 @@ const Footer = () => {
                 <div className="footer">
                     <div className="footer-column list-company">
                         <h2>Company</h2>
-                        <a>Careers</a>
-                        <a>About us</a>
-                        <a>Weekly Ad</a>
-                        <a>Our suppliers</a>
-                        <a>Delivery</a>
+                        <div>Careers</div>
+                        <div>About us</div>
+                        <div>Weekly Ad</div>
+                        <div>Our suppliers</div>
+                        <div>Delivery</div>
                     </div>
                     <div className="footer-column list-website">
                         <h2>Website</h2>
-                        <a>Terms of use</a>
-                        <a>Privacy and security</a>
-                        <a>Privacy rights</a>
-                        <a>Our ads</a>
+                        <div>Terms of use</div>
+                        <div>Privacy and security</div>
+                        <div>Privacy rights</div>
+                        <div>Our ads</div>
                     </div>
                     <div className="footer-column list-customer">
                         <h2>Customer</h2>
-                        <a>Contact us</a>
-                        <a>FAQ</a>
-                        <a>Returns</a>
-                        <a>Survey</a>
+                        <div>Contact us</div>
+                        <div>FAQ</div>
+                        <div>Returns</div>
+                        <div>Survey</div>
                     </div>
                     <div className="footer-column list-social">
                         <h2>Social media</h2>
-                        <a>Facebook<i class="fab fa-facebook"></i></a>
-                        <a>YouTube<i class="fab fa-youtube"></i></a>
-                        <a>Twitter<i class="fab fa-twitter"></i></a>
-                        <a>Instagram<i class="fab fa-instagram"></i></a>
+                        <div>Facebook<i class="fab fa-facebook"></i></div>
+                        <div>YouTube<i class="fab fa-youtube"></i></div>
+                        <div>Twitter<i class="fab fa-twitter"></i></div>
+                        <div>Instagram<i class="fab fa-instagram"></i></div>
                     </div>
                 </div>
                 <div className="newsletter">
