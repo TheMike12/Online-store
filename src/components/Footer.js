@@ -8,32 +8,32 @@ const Footer = () => {
                 <div className="footer">
                     <div className="footer-column list-company">
                         <h2>Company</h2>
-                        <a href="#">Careers</a>
-                        <a href="#">About us</a>
-                        <a href="#">Weekly Ad</a>
-                        <a href="#">Our suppliers</a>
-                        <a href="#">Delivery</a>
+                        <a>Careers</a>
+                        <a>About us</a>
+                        <a>Weekly Ad</a>
+                        <a>Our suppliers</a>
+                        <a>Delivery</a>
                     </div>
                     <div className="footer-column list-website">
                         <h2>Website</h2>
-                        <a href="#">Terms of use</a>
-                        <a href="#">Privacy and security</a>
-                        <a href="#">Privacy rights</a>
-                        <a href="#">Our ads</a>
+                        <a>Terms of use</a>
+                        <a>Privacy and security</a>
+                        <a>Privacy rights</a>
+                        <a>Our ads</a>
                     </div>
                     <div className="footer-column list-customer">
                         <h2>Customer</h2>
-                        <a href="#">Contact us</a>
-                        <a href="#">FAQ</a>
-                        <a href="#">Returns</a>
-                        <a href="#">Survey</a>
+                        <a>Contact us</a>
+                        <a>FAQ</a>
+                        <a>Returns</a>
+                        <a>Survey</a>
                     </div>
                     <div className="footer-column list-social">
                         <h2>Social media</h2>
-                        <a href="#">Facebook<i class="fab fa-facebook"></i></a>
-                        <a href="#">YouTube<i class="fab fa-youtube"></i></a>
-                        <a href="#">Twitter<i class="fab fa-twitter"></i></a>
-                        <a href="#">Instagram<i class="fab fa-instagram"></i></a>
+                        <a>Facebook<i class="fab fa-facebook"></i></a>
+                        <a>YouTube<i class="fab fa-youtube"></i></a>
+                        <a>Twitter<i class="fab fa-twitter"></i></a>
+                        <a>Instagram<i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
                 <div className="newsletter">
